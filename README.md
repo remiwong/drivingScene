@@ -2,6 +2,8 @@
 
 Currently trying to improve the accuracy of the MIT Driving Scene Segmentation
 
+Link to original works: `https://selfdrivingcars.mit.edu/installing-opencv-to-the-tensorflow-docker-image/`
+
 ##Progress
 * Results Analysis ... 80 %
 * Code Analysis ... 50 %
